@@ -4,6 +4,8 @@
 
 Welcome to the **LLM-Driven Invariant Generation and Verification Framework**! This repository explores the intersection of formal verification and machine learning, leveraging the power of **Large Language Models (LLMs)** to automate and enhance the process of generating and validating loop invariants. Whether you’re a researcher, engineer, or student, this framework offers tools and insights to push the boundaries of software verification.
 
+🚨 Disclaimer: This repository is a replica of a private project, developed as part of a Master’s thesis by Milan Bhardwaj. 
+The work presented here is partial, strictly copyrighted and should not be reproduced, distributed, or used for commercial purposes.
 ---
 
 ## 🚀 **Overview**
